@@ -1,0 +1,9 @@
+## ATMega328p (as found on Arduino UNO)
+
+Use a button to control an LED
+
+### Output
+Port B pin 8
+
+### Input
+Port B pin 9
